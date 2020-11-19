@@ -1,2 +1,2 @@
-[![Chowisely's github stats](https://github-readme-stats.vercel.app/api?username=chowisely&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark )](https://github.com/anuraghazra/github-readme-stats)
+[![Chowisely's github stats](https://github-readme-stats.vercel.app/api?username=chowisely&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark )](https://github.com/anuraghazra/github-readme-stats)
 [![Chowisely's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chowisely&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
